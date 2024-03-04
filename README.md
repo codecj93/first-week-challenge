@@ -14,6 +14,6 @@ in html code, logically structure HTML elements, add alt attributes, have headin
 Acceptance Criteria was provided for students to follow and complete assignment.
 
 The following is the mock up marketing page:
-http://127.0.0.1:5500/index.html
+https://codecj93.github.io/first-week-challenge/
 
 ![Full Page Screenshot](./assets/images/Screenshot%202024-03-03%20at%207.35.10 PM.png)
