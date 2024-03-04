@@ -15,3 +15,5 @@ Acceptance Criteria was provided for students to follow and complete assignment.
 
 The following is the mock up marketing page:
 http://127.0.0.1:5500/index.html
+
+![Full Page Screenshot](./assets/images/Screenshot%202024-03-03%20at%207.35.10 PM.png)
